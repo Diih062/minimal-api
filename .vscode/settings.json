@@ -1,0 +1,6 @@
+{
+  "omnisharp.useModernNet": true,
+  "dotnet.defaultSolution": "minimal-api.sln",
+  "editor.formatOnSave": true,
+  "editor.formatOnType": true
+}
